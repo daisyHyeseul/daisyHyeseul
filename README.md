@@ -15,8 +15,8 @@
 
 
 <span>
-  <img src = "https://github-readme-stats.vercel.app/api?username=daisyHyeseul&count_private=true&show_icons=true&theme=discord_old_blurple"height= 180px/>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=daisyHyeseul&layout=compact&count_private=true&theme=discord_old_blurple" height= 180px/> 
+  <img src = "https://github-readme-stats.vercel.app/api?username=daisyHyeseul&count_private=true&show_icons=true&theme=discord_old_blurple"height= 150px/>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=daisyHyeseul&layout=compact&count_private=true&theme=discord_old_blurple" height= 150px/> 
 </span>
 
 
