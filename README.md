@@ -11,10 +11,12 @@
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=csj0934)](https://solved.ac/csj0934)
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=csj0934&count_private=true)](https://solved.ac/csj0934)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daisyHyeseul)](https://github.com/anuraghazra/github-readme-stats)
+<span>
+  <img src = "https://github-readme-stats.vercel.app/api?username=daisyHyeseul&count_private=true&show_icons=true&theme=discord_old_blurple"height= 180px/>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=daisyHyeseul&layout=compact&count_private=true&theme=discord_old_blurple" height= 180px/> 
+</span>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daisyHyeseul&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
