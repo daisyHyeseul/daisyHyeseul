@@ -9,8 +9,10 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=csj0934)](https://solved.ac/csj0934)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=csj0934)](https://solved.ac/csj0934)
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daisyHyeseul)](https://github.com/anuraghazra/github-readme-stats)
 
